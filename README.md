@@ -50,5 +50,5 @@ Built Java based Patient care Web portal. Designed SOAP/REST API’s for Patient
 
 ## Certifications
 
-Product Management Certification  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grade A  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2018
+Product Management Certification  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grade A  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2018  
 **Stanford University, Palo Alto - CA**
