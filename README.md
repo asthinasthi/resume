@@ -2,7 +2,6 @@ ANIRUDH R MATHAD
 https://www.linkedin.com/in/anirudhmathad  
 1 W Santa Inez Ave, San Mateo, CA – 94402  Cell: 480-526-1311  email:anirudh.mathad@gmail.com 
 
-***
 ## Skills
 Java, NodeJS, AWS, Serverless, DynamoDB, MySQL, Elasticsearch, API’s
 
@@ -13,7 +12,6 @@ Java, NodeJS, AWS, Serverless, DynamoDB, MySQL, Elasticsearch, API’s
 **Bachelor of Technology, Electronics & Comm. Engg**        CGPA: 7.74/10.0         July 2005 - May 2009  
   National Institute of Technology - Surat, INDIA
 
-***
 ## Professional Experience
 
 Software Engineer, API and Services  
@@ -43,14 +41,13 @@ Software Engineer II
 - Built & maintained SOAP based Integration with Salesforce for Patient Data. Reduced integration time by 20% by using PostgreSQL streams to Apache ActiveMQ JMS queue.
 
 Software Engineer  
-**Aptiv/Delphi, Bangalore - India** &nbsp;&nbsp;&nbsp;&nbsp;  August 2009 - June 2012
+**Aptiv/Delphi, Bangalore - India** &nbsp;&nbsp;&nbsp;&nbsp;  August 2009 - June 2012  
 Built a Java based inventory management tool. Built engine algorithms using C
 
 Software Engineer Intern  
-**Health BI, Scottsdale - AZ** &nbsp;&nbsp;&nbsp;&nbsp; May 2013 - August 2013
+**Health BI, Scottsdale - AZ** &nbsp;&nbsp;&nbsp;&nbsp; May 2013 - August 2013  
 Built Java based Patient care Web portal. Designed SOAP/REST API’s for Patient Data Integration with Partners.
 
-***
 ## Certifications
 
 Product Management Certification &nbsp;&nbsp;&nbsp;&nbsp; Grade A &nbsp;&nbsp;&nbsp;&nbsp; Summer 2018  
