@@ -1,6 +1,5 @@
 # ANIRUDH R MATHAD                               
 https://www.linkedin.com/in/anirudhmathad  
-1 W Santa Inez Ave, San Mateo, CA – 94402  Cell: 480-526-1311  email:anirudh.mathad@gmail.com 
 
 ## Skills
 Java, NodeJS, AWS, Serverless, DynamoDB, MySQL, Elasticsearch, API’s
